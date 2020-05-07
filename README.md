@@ -45,7 +45,7 @@ Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBi
 
 * Se encontró que solamente el 10% de los usuarios que entran al landing page se registran en la app.
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/9.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/9.jpg" width="500">
 
 *	La interfaz cuenta con varios detalles visuales que suelen confundir al usuario.
 *	Algunos elementos no son apreciados por el usuario.
@@ -53,7 +53,7 @@ Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBi
 *	El 70% de los visitantes al landing page utilizan Android, esto supone una clave importante para generar posicionamiento dentro de las Marketplace.
 *	Se requiere adaptar la aplicación al mercado mexicano, cubriendo así el cambio de moneda y el cambio de lenguaje.
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg" width="500">
 
 _(Promedio de visitas al landing page que realizaron un proceso exitoso. (noviembre-enero))_
 
@@ -72,7 +72,7 @@ Al momento de analizar los test realizados al PMV decidimos tomar acción dentro
 
 Desarrollamos un cambio de diseño en todas las pantallas, modificando los colores sutilmente y la ubicación de algunos elementos, también realizamos cambios al ícono principal sin perder de vista el estilo de Banqui.
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Logo.png">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Logo.png" width="450">
 
 Implementamos en la pantalla de sign up una micro interacción en la parte de abajo para indicarle al usuario en que paso se encuentra y así poder validar si a futuro puede apoyar al aumento de registros, debido a que se visualizó anteriormente que los usuarios desistían en este paso al pensar que el registro tardaría “más tiempo”.
 También agregamos la opción de que el usuario agregara su nombre y apellido para brindarle mayor seguridad y habilitamos un ícono dónde el usuario pueda aceptar términos y condiciones.
