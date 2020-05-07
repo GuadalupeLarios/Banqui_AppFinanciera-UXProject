@@ -119,7 +119,7 @@ Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, t
 
 ## Conclusiones a partir de los usuarios testeados
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Gr%C3%A1ficos.png">
 
 ## Affinity map
 
