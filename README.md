@@ -105,13 +105,23 @@ Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, t
 
 ## Diseño de la aplicación para Android
 
+Aquí puedes revisar nuestro prototipo en [figma]()
+
 ## Diseño de la aplicación para iOS
+
+Aquí puedes revisar nuestro prototipo en [figma]()
 
 ## Video de Loom
 
+En este link te mostramos nuestro [vídeo]()
+
 ## Presentación
 
+Tenemos nuestro pitch justo [aquí]()
+
 ## 5. PROCESO
+
+Aquí puedes visualizar nuestra primer [documentación](https://docs.google.com/document/d/1nIFK5Bk7yzmT8iPQi3ywRLk9vUOuU1d7zeLC3hA_Lx8/edit?usp=sharing)
 
 ## Sustento de las propuestas de diseño
 
