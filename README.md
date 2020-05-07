@@ -17,7 +17,7 @@ Al transcurrir un tiempo después de la fase BETA se obtienen resultados muy len
 
 ## Producto Viable Mínimo
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/PMV.png">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/PMV.png" align="center">
 
 ## Landing page
 
@@ -115,7 +115,7 @@ Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, t
 
 ## Sustento de las propuestas de diseño
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/1.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/1.jpg" width="400">
 
 ## Conclusiones a partir de los usuarios testeados
 
