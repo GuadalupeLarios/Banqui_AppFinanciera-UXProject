@@ -45,7 +45,7 @@ Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBi
 
 * Se encontró que solamente el 10% de los usuarios que entran al landing page se registran en la app.
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/9.jpg" width="500">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/9.jpg" width="400">
 
 *	La interfaz cuenta con varios detalles visuales que suelen confundir al usuario.
 *	Algunos elementos no son apreciados por el usuario.
@@ -53,13 +53,13 @@ Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBi
 *	El 70% de los visitantes al landing page utilizan Android, esto supone una clave importante para generar posicionamiento dentro de las Marketplace.
 *	Se requiere adaptar la aplicación al mercado mexicano, cubriendo así el cambio de moneda y el cambio de lenguaje.
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg" width="500">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg" width="400">
 
 _(Promedio de visitas al landing page que realizaron un proceso exitoso. (noviembre-enero))_
 
 ## Problemas encontrados por el equipo
 
-* Los usuarios observan elementos innecesarios al momento de registrarse, tal como pedir una foto de perfil. “¿Por qué me pide fotografía?”
+* Los usuarios observan elementos innecesarios al momento de registrarse, tal como pedir una foto de perfil. _(“¿Por qué me pide fotografía?”)_
 *	Tienen confusión con ciertas palabras o tecnicismos usados dentro de la app.
 *	Algunos usuarios presentan confusión con los gastos y otros no lo identifican dentro de la app.
 *	Temen por la privacidad de sus datos al no encontrar botón de “cerrar sesión”
@@ -119,10 +119,7 @@ Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, t
 
 ## Conclusiones a partir de los usuarios testeados
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/2.jpg" width="400">
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/3.jpg" width="400">
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/4.jpg" width="400">
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/5.jpg" width="400">
+<img src="">
 
 ## Affinity map
 
