@@ -119,7 +119,7 @@ Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, t
 
 ## Conclusiones a partir de los usuarios testeados
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/2.jpg" width="30">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/2.jpg" width="30" height="30">
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/3.jpg">
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/4.jpg">
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/5.jpg">
