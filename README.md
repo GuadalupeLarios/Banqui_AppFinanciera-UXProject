@@ -55,11 +55,11 @@ Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBi
 
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg" width="400">
 
-_(Promedio de visitas al landing page que realizaron un proceso exitoso. (noviembre-enero))_
+_Promedio de visitas al landing page que realizaron un proceso exitoso. (noviembre-enero)_
 
 ## Problemas encontrados por el equipo
 
-* Los usuarios observan elementos innecesarios al momento de registrarse, tal como pedir una foto de perfil. _(“¿Por qué me pide fotografía?”)_
+* Los usuarios observan elementos innecesarios al momento de registrarse, tal como pedir una foto de perfil. _“¿Por qué me pide fotografía?”_
 *	Tienen confusión con ciertas palabras o tecnicismos usados dentro de la app.
 *	Algunos usuarios presentan confusión con los gastos y otros no lo identifican dentro de la app.
 *	Temen por la privacidad de sus datos al no encontrar botón de “cerrar sesión”
