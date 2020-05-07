@@ -1,4 +1,4 @@
-# Aplicación financiera
+# Financial App: BANQUI.
 
 ## Preámbulo
 Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico
