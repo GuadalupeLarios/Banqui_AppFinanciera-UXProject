@@ -54,7 +54,8 @@ Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBi
 *	Se requiere adaptar la aplicación al mercado mexicano, cubriendo así el cambio de moneda y el cambio de lenguaje.
 
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg">
-_Promedio_de_visitas_al_landing_page_que_realizaron_un_proceso_exitoso._(noviembre-enero)_
+
+_(Promedio de visitas al landing page que realizaron un proceso exitoso. (noviembre-enero))_
 
 ## Problemas encontrados por el equipo
 
@@ -118,7 +119,7 @@ Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, t
 
 ## Conclusiones a partir de los usuarios testeados
 
-<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/2.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/2.jpg" width="60" >
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/3.jpg">
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/4.jpg">
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/5.jpg">
