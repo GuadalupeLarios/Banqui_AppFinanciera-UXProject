@@ -10,180 +10,131 @@
 
 ***
 
-## Preámbulo
-Las Fintech son un tipo de empresas, que a través del desarrollo tecnológico
-ofrecen servicios financieros digitales que permiten mejorar la experiencia
-financiera de personas naturales, así como de personas jurídicas.
+## 1. CONTEXTO
 
-En LATAM, las fintech han tenido un rápido crecimiento, según el informe
-Fintech América Latina 2018 del BID. Brasil es el líder en la región con 380
-fintech al 2018, le sigue México con 273. Perú está un poco rezagado, con 57.
+Banqui, Fintech peruana lanza al mercado su app financiera para fomentar el ahorro, esta tiene el objetivo de que sea una experiencia digital simple, rápida y personalizada.
+Al transcurrir un tiempo después de la fase BETA se obtienen resultados muy lentos y se observan varias áreas de oportunidad las cuales se trabajarán con el equipo UX de laboratoria para el rediseño de la misma.
 
-Entre las soluciones que ofrecen está la personalización de productos y
-servicios, una mejor experiencia, reducción de costos por desintermediación de
-bancos y, sobre todo, el control de las operaciones financieras desde el
-celular. Esto lo logran al centrarse en 3 puntos: las finanzas (gestión de
-ahorros, inversiones, etc), la tecnología (big data y analítica) y poner al
-cliente en el centro de la organización.
+## Producto Viable Mínimo
 
-Uno de los segmentos de fintech que más rápido está creciendo son los bancos
-digitales que representan un gran potencial para las personas y pymes no
-bancarizadas o que no tienen acceso al sistema financiero tradicional.
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/PMV.png">
 
-## Introducción
+## Landing page
 
-### Fintech
-  
-Banqui es una fintech peruana que busca brindar una experiencia financiera
-digital simple, rápida y  personalizada para sus clientes. Banqui inició
-operaciones en 2019 en Perú y en 2020 en México, encontrando coincidencias en
-ambas culturas financieras en relación al ahorro, la percepción de la banca
-tradicional, los altos intereses en tarjetas de crédito, entre otros. Un dato
-de ejemplo es que en México solo el 15% de personas que ahorran lo hacen a
-través de una institución financiera formal (bancos, cooperativas, fondos de
-inversión), mientras que en Perú es un 14%.
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Landing%20page%201.png">
 
-Banqui se encuentra aún en un estado _beta_, probando su banca digital con
-un grupo pequeño de usuarios en Perú de donde obtuvieron muchos aprendizajes.
-Banqui quiere seguir desarrollando su producto y nos ha contratado para poder
-ayudarlos a corregir los principales problemas que encontraron en su
-aplicación durante su fase _beta_.
+## Objetivos del proyecto
 
-### Contexto
+*	Rediseño exitoso de la app, creando una interfaz más amigable e intuitiva
+*	Entendimiento del estudio previo para poder enfocarnos en los puntos principales.
+*	Desarrollar testeos de usabilidad a partir de lo solicitado por Banqui.
+*	Generar ideas a partir de los resultados obtenidos.
+*	Cumplir con lo solicitado por el product Owner
 
-Al revisar los resultados del uso de la aplicación con los usuarios beta
-y de haber realizado una investigación de UX con usuarios de México, el
-equipo de Banqui concluyó lo siguiente:
+## 2. RESEARCH/PROBLEMÁTICA
 
-- La aplicación tiene aún problemas de diseño visual y de interacción que
-  hacen que la aplicación no sea entendible ni fácil de usar para muchos
-  usuarios:
-  * Existen inconsistencias en el uso de ciertos componentes de la interfaz.
-  * Los contrastes de color utilizados hacen que algunos elementos no
-    sean vistos por los usuarios.
-- El lenguaje utilizado en la aplicación a veces induce al error a los
-  usuarios. 
-- Los usuarios valoran mucho la funcionalidad de ahorro, sin embargo, se les
-  hace complicado utilizarla.
-- Existe un problema en el sign up. Según la data que han podido recolectar,
-  solo el 10% de las personas que descargan el up logran crearse una cuenta.
-- Es imperativo diseñar una aplicación para dispositivos Android. El [landing
-  page](http://banqui.pagedemo.co/) donde se anuncia la llegada de Banqui ha
-  identificado que el 70% de los intersados en Banqui navegan el landing page
-  desde un dispositivo Android.
+Nuestro cliente nos proporcionó data referente a los resultados de la investigación durante la fase BETA en Perú, la cual analizamos e identificamos los siguientes problemas.
 
-Además con miras al lanzamiento en México necesitan:
+## Objetivo del negocio
 
-- Adaptar la aplicación para el mercado Mexicano en términos de:
-  * Moneda
-  * Lenguaje
+Identificar potenciales usuarios que puedan utilizar la app de forma recurrente para llegar a sus objetivos de ahorro, generar fidelidad por parte de ellos y a futuro puedan hacer uso de productos activos de Banqui. Principalmente se busca otorgar un producto pasivo de ahorro de captación de dinero sin estrategia de marketing inmediata.
 
-El equipo de Banqui te pide que los ayudes a concretar esas mejoras que han
-encontrado, pero además te comentan que están abiertos a explorar nuevas 
-funcionalidades que les puedas proponer, siempre y cuando estén sustentadas
-por una investigación. 
+Lee la [guía de entrevista](https://docs.google.com/document/d/1E8RpddA9wQk7WBiN8NCUSu5HJD3RlgXSBuk8xs154wM/edit) 
 
-### Recursos
+## Problemas
 
-- [Resultados de la investigación](https://docs.google.com/presentation/d/1EzfS-bl0Wyl29WH34LZancc_Qo-3Gewt9P0lYfEPN4E/edit#slide=id.g7fac357d58_0_202)
-- El [diseño del app en Figma](https://www.figma.com/file/S2NwVUvMYU5J30EhTBrnEK/LIM-App-Financiera?node-id=810%3A7200)
-, con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/1hj56576).
+* Se encontró que solamente el 10% de los usuarios que entran al landing page se registran en la app.
 
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/9.jpg">
 
-## Objetivos de aprendizaje
+*	La interfaz cuenta con varios detalles visuales que suelen confundir al usuario.
+*	Algunos elementos no son apreciados por el usuario.
+*	Los usuarios valoran el ahorro, sin embargo, no se ha encontrado una plataforma digital la cual los haga cumplir sus metas, o donde puedan ser constantes, de igual manera la mayoría de las personas aprecia tener recordatorios de pago ya que los ayuda a programarse.
+*	El 70% de los visitantes al landing page utilizan Android, esto supone una clave importante para generar posicionamiento dentro de las Marketplace.
+*	Se requiere adaptar la aplicación al mercado mexicano, cubriendo así el cambio de moneda y el cambio de lenguaje.
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Es muy probable que termines trabajando en productos
-existentes y que para tener un buen entendimiento del problema, debas analizar
-data de ese producto y complementar esta data con investigación de campo. Para
-luego definir una estrategia de producto de acuerdo a los objetivos del
-negocio, pero sin dejar de lado los objetivos y necesidades de los usuarios.
-Puedes leer sobre el trabajo de un UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/10.jpg">
+_Promedio_de_visitas_al_landing_page_que_realizaron_un_proceso_exitoso._(noviembre-enero)_
 
-En este proyecto pondrás en práctica habilidades de: pensamiento crítico,
-priorización, síntesis, ideación, diseño visual, diseño de interacción, entre
-otros.
+## Problemas encontrados por el equipo
 
-## Consideraciones generales
+* Los usuarios observan elementos innecesarios al momento de registrarse, tal como pedir una foto de perfil. “¿Por qué me pide fotografía?”
+*	Tienen confusión con ciertas palabras o tecnicismos usados dentro de la app.
+*	Algunos usuarios presentan confusión con los gastos y otros no lo identifican dentro de la app.
+*	Temen por la privacidad de sus datos al no encontrar botón de “cerrar sesión”
 
-Gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo
-largo de cualquier proyecto y su desarrollo es clave para el éxito. Estas
-habilidades no sólo son utilizadas a la hora de entender al usuario, sino a lo
-largo de toda la ejecución, es decir desde cómo planificamos hasta nuestra
-presentación al cliente.
+## 3. ACCIONES
 
-En este proyecto no debes partir desde cero diseñando un producto, sino
-investigar lo que el banco ya ha construido y en base a eso hacer una
-propuesta. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu
-planificación es muy relevante para comprender la problemática.
+Al momento de analizar los test realizados al PMV decidimos tomar acción dentro de la interfaz, el diagrama de flujo de las pantallas, el UX writting, eliminando ciertos elementos o modificando su lugar para generar mayor interacción con el usuario y facilidad de uso de la app.
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con
-tu compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+## Interfaz amigable e intuitiva
 
-La calidad del proyecto depende totalmente de tu proactividad y
-autoaprendizaje, si no conoces plataformas financieras parte por investigar
-sobre ellas. No esperes que los contenidos lleguen a ti, más bien busca todo
-lo que necesites para poder encontrar la mejor solución.
+Desarrollamos un cambio de diseño en todas las pantallas, modificando los colores sutilmente y la ubicación de algunos elementos, también realizamos cambios al ícono principal sin perder de vista el estilo de Banqui.
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar toda decisión con tu consultora y el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Logo.png">
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una slides frente a un cliente, se prolija en
-el diseño de ellos y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente.
+Implementamos en la pantalla de sign up una micro interacción en la parte de abajo para indicarle al usuario en que paso se encuentra y así poder validar si a futuro puede apoyar al aumento de registros, debido a que se visualizó anteriormente que los usuarios desistían en este paso al pensar que el registro tardaría “más tiempo”.
+También agregamos la opción de que el usuario agregara su nombre y apellido para brindarle mayor seguridad y habilitamos un ícono dónde el usuario pueda aceptar términos y condiciones.
 
-## Entrega
+<img src="">
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+Se rediseñó por completo la pantalla de “gastos” creando así una interfaz más atractiva visualmente
 
-README.md  detallando:
+<img src="">
 
-* Objetivos iniciales del proyecto
-* Propuestas de diseño
-  - Diseño de aplicación para iOS
-  - Diseño de aplicación para Android
-* Sustento de las propuestas de diseño
+Se realizaron cambios de colores acercados a la paleta original, esto con la finalidad de generar mayor confianza a los usuarios y darle más usabilidad a la app, ya que ahora se pueden visualizar mucho mejor los elementos.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+<img src="">
 
-## Otras consideraciones
+Se decidió utilizar un lenguaje más amigable para generar cercanía con los usuarios, reemplazamos tecnicismos y en la pantalla de inicio se les recibe con un mensaje de bienvenida.
 
-### 1) Planeamiento y propuesta
+<img src="">
 
-Durante la primera semana de trabajo en Banqui tienes que presentar tu plan de
-trabajo. Cómo planificas que vas a usar el tiempo y cuánto te vas a demorar en
-las distintas actividades de diseño.
+Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, también modificamos el texto para que fuese más entendible hacia donde dirigía cada uno.
 
-### 2) Diseño de la aplicación
+<img src="">
 
-- El diseño de la aplicación tiene que cubrir los puntos requeridos por Banqui.
-- Todos los cambios realizados tienen que ser sustentados.
-- El diseño final hecho en Figma deberá comprender un Sistema de Diseño que
-  utilice componentes reutilizables.
+## Después de la iteración
 
-## Contenido de referencia
+*	La paleta de colores tuvo buena aceptación “Me agrada el color, es llamativo”, se indica que el contraste de colores es bonito, no se pierden las palabras y son visibles.
+*	La gráfica en el área de “gastos” fue aceptada por los cinco usuarios finales, indicaron que visualmente es más comprensible y pueden comprender mejor como llevan la organización en sus pagos.
+*	En el área de productos anteriormente se marcaba la cantidad actual en rojo, los usuarios solicitaron que se modificara ese color, ya que a pesar de que sí resaltaba, daba una impresión que esa cantidad era negativa y no la cantidad dentro de la cuenta.
 
-En el LMS busca los siguientes contenidos:
+## 4. ENTREGABLES
 
-- Product Design
-- Cómo entender el problema de negocio
-- Cómo crear y organizar el contenido de un producto digital
-- Entendiendo la tecnología con la que trabajaremos
+## Diseño de la aplicación para Android
 
-También mira las guías de diseño de interfaces para:
-- [iOS](https://developer.apple.com/design/human-interface-guidelines/)
-- [Android](https://developer.android.com/design)
+## Diseño de la aplicación para iOS
+
+## Video de Loom
+
+## Presentación
+
+## 5. PROCESO
+
+## Sustento de las propuestas de diseño
+
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/1.jpg">
+
+## Conclusiones a partir de los usuarios testeados
+
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/2.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/3.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/4.jpg">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/5.jpg">
+
+## Affinity map
+
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Affinity%20map.png">
+
+## Customer journey map
+
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Customer%20journey%20map%20banqui.png">
+
+## User persona
+
+<img src="">
+
+## Benchmark
+
+<img src="">
