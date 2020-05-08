@@ -141,7 +141,7 @@ Aquí puedes visualizar nuestra primer [documentación](https://docs.google.com/
 
 ## User persona
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/User%20persona.png">
 
 ## Benchmark
 
