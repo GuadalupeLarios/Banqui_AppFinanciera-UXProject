@@ -77,23 +77,29 @@ Desarrollamos un cambio de diseño en todas las pantallas, modificando los color
 Implementamos en la pantalla de sign up una micro interacción en la parte de abajo para indicarle al usuario en que paso se encuentra y así poder validar si a futuro puede apoyar al aumento de registros, debido a que se visualizó anteriormente que los usuarios desistían en este paso al pensar que el registro tardaría “más tiempo”.
 También agregamos la opción de que el usuario agregara su nombre y apellido para brindarle mayor seguridad y habilitamos un ícono dónde el usuario pueda aceptar términos y condiciones.
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Sign%20up.png">
 
 Se rediseñó por completo la pantalla de “gastos” creando así una interfaz más atractiva visualmente
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Gastos.png">
 
 Se realizaron cambios de colores acercados a la paleta original, esto con la finalidad de generar mayor confianza a los usuarios y darle más usabilidad a la app, ya que ahora se pueden visualizar mucho mejor los elementos.
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Interfaz.png">
 
 Se decidió utilizar un lenguaje más amigable para generar cercanía con los usuarios, reemplazamos tecnicismos y en la pantalla de inicio se les recibe con un mensaje de bienvenida.
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Bienvenida.png">
 
 Modificamos el ícono de menú y lo trasladamos a la parte superior izquierda, también modificamos el texto para que fuese más entendible hacia donde dirigía cada uno.
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Men%C3%BA%20original.png">
+
+_(Original)_
+
+<img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Men%C3%BA%20redise%C3%B1o.png">
+
+_(Rediseño)_
 
 ## Después de la iteración
 
