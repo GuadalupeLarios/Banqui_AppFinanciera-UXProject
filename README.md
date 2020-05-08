@@ -107,15 +107,21 @@ _(Rediseño)_
 *	La gráfica en el área de “gastos” fue aceptada por los cinco usuarios finales, indicaron que visualmente es más comprensible y pueden comprender mejor como llevan la organización en sus pagos.
 *	En el área de productos anteriormente se marcaba la cantidad actual en rojo, los usuarios solicitaron que se modificara ese color, ya que a pesar de que sí resaltaba, daba una impresión que esa cantidad era negativa y no la cantidad dentro de la cuenta.
 
+**Descubrimientos**
+
+* El registro se volvió más intuitivo y entendible, después de notificar el número de cuenta por correo electrónico.
+* El cambio de ciertas palabras facilitó el entendimiento del usuario y ayudó a agilizar el proceso de crear una meta.
+* Los gráficos son muy valorados y entendibles por los usuarios(as)
+
 ## 4. ENTREGABLES
 
 ## Diseño de la aplicación para Android
 
-Aquí puedes revisar nuestro prototipo en [figma]()
+Aquí puedes revisar nuestro prototipo en [figma](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1381%3A8436&scaling=scale-down)
 
 ## Diseño de la aplicación para iOS
 
-Aquí puedes revisar nuestro prototipo en [figma]()
+Aquí puedes revisar nuestro prototipo en [figma](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1620%3A17917&scaling=scale-down)
 
 ## Video de Loom
 
@@ -123,7 +129,7 @@ En este link te mostramos nuestro [vídeo]()
 
 ## Presentación
 
-Tenemos nuestro pitch justo [aquí]()
+Tenemos nuestro pitch justo [aquí](https://www.canva.com/design/DAD7ffAhf74/Zb6fUEJ58ZF7IVpnUgVGCA/view?utm_content=DAD7ffAhf74&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## 5. PROCESO
 
@@ -152,3 +158,9 @@ Aquí puedes visualizar nuestra primer [documentación](https://docs.google.com/
 ## Benchmark
 
 <img src="https://github.com/AndyyAg/ux-financial-app/blob/master/Im%C3%A1genes/Benchmark.png">
+
+
+¿Quieres saber como iniciamos este proyecto? Haz click [aquí](https://docs.google.com/presentation/d/1IfZN_XOQIbvlqjp_Xq1HAnaKQuQ_4FLD-s6mgxs0Ut0/edit?usp=sharing)
+
+_Proyecto realizado el 05/2020 por Katherin Chi, Guadalupe Larios, Laura Tellez y Andrea Aguilar._
+_Laboratoria, UX CDMX009-LIM012._
