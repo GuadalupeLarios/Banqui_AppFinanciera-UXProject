@@ -125,7 +125,7 @@ Aquí puedes revisar nuestro prototipo en [figma](https://www.figma.com/proto/0P
 
 ## Video de Loom
 
-En este link te mostramos nuestro [vídeo]()
+En este link te mostramos nuestro [vídeo](https://drive.google.com/file/d/1BZKINiQjqmkjdMTdvbq8Tkz-KWLXEy_A/view?usp=sharing)
 
 ## Presentación
 
@@ -163,4 +163,5 @@ Aquí puedes visualizar nuestra primer [documentación](https://docs.google.com/
 ¿Quieres saber como iniciamos este proyecto? Haz click [aquí](https://docs.google.com/presentation/d/1IfZN_XOQIbvlqjp_Xq1HAnaKQuQ_4FLD-s6mgxs0Ut0/edit?usp=sharing)
 
 _Proyecto realizado el 05/2020 por Katherin Chi, Guadalupe Larios, Laura Tellez y Andrea Aguilar._
+
 _Laboratoria, UX CDMX009-LIM012._
