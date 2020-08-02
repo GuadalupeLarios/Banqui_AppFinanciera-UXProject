@@ -165,3 +165,5 @@ Aquí puedes visualizar nuestra primer [documentación](https://docs.google.com/
 _Proyecto realizado el 05/2020 por Katherin Chi, Guadalupe Larios, Laura Tellez y Andrea Aguilar._
 
 _Laboratoria, UX CDMX009-LIM012._
+
+![1](https://user-images.githubusercontent.com/60905476/89112905-ada45180-d42f-11ea-9bbf-3b3bacbd5ea4.png)
