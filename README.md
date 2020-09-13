@@ -11,8 +11,6 @@
 
 [Diseño de la aplicacion para iOS](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1620%3A17917&scaling=scale-down) 
 
-[User Persona | PNG](https://user-images.githubusercontent.com/60905476/89480521-320e1180-d75b-11ea-92ea-e029641da6d8.png)
-
 [Customer Journey Map | PNG](https://user-images.githubusercontent.com/60905476/89480047-fa529a00-d759-11ea-91ec-b6c56be6feee.png)
 
 [Video presentación | Loom](https://drive.google.com/file/d/1BZKINiQjqmkjdMTdvbq8Tkz-KWLXEy_A/view)
