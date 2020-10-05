@@ -21,7 +21,7 @@
 ##
 
 
-Proyecto realizado en Mayo 2020 por Andrea Aguilar, Guadalupe Larios, Katherin Chi y Laura Tellez.
+Proyecto realizado en Mayo 2020 por Andrea Aguilar, Guadalupe Larios, Katherin Chi y Laura Tellez.           
 **LABORATORIA, UX CDMX009-LIM012.**
 
 
