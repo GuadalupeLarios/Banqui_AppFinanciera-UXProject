@@ -1,3 +1,13 @@
+## Banqui, Fintech peruana 
+
+#### Prototipo interactivo:
+
+[Diseño de la aplicacion para Android](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1381%3A8497&scaling=scale-down) :iphone:
+
+[Diseño de la aplicacion para iOS](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1620%3A17917&scaling=scale-down) :iphone:
+
+##
+
 ![Banqui1](https://user-images.githubusercontent.com/60905476/89360935-8a77dd00-d68f-11ea-80cb-367fed39c0bc.png)
 ![Banqui2](https://user-images.githubusercontent.com/60905476/89360772-09b8e100-d68f-11ea-90d9-96f85d9f3525.png)
 ![Banqui3](https://user-images.githubusercontent.com/60905476/89360803-1fc6a180-d68f-11ea-8762-ff164bb93245.png)
@@ -6,10 +16,6 @@
 ![Banqui6](https://user-images.githubusercontent.com/60905476/89360881-5bfa0200-d68f-11ea-9b75-f3ea85aca0a8.png)
 
 ### :arrow_right:  ÍNDICE ENTREGABLES:
-
-[Diseño de la aplicacion para Android](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1381%3A8497&scaling=scale-down)
-
-[Diseño de la aplicacion para iOS](https://www.figma.com/proto/0P3axB67aepwxNtH2aY7cw/App-Financiera-Squad-3?node-id=1620%3A17917&scaling=scale-down) 
 
 [Customer Journey Map | PNG](https://user-images.githubusercontent.com/60905476/89480047-fa529a00-d759-11ea-91ec-b6c56be6feee.png)
 
